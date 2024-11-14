@@ -12,10 +12,10 @@ datasets. The name of each folder correponds to the dataset.
 
 # Citation
 
-  @inproceedings{mullick2024pointer,
-    title={A Pointer Network-based Approach for Joint Extraction and Detection of Multi-Label Multi-Class Intents},
-    author={Mullick, Ankan and Bose, Sombit and Nandy, Abhilash and Chaitanya, Gajula and Goyal, Pawan},
-    booktitle={Findings of the Association for Computational Linguistics: EMNLP 2024},
-    pages={15664--15680},
-    year={2024}
-  }
+    @inproceedings{mullick2024pointer,
+      title={A Pointer Network-based Approach for Joint Extraction and Detection of Multi-Label Multi-Class Intents},
+      author={Mullick, Ankan and Bose, Sombit and Nandy, Abhilash and Chaitanya, Gajula and Goyal, Pawan},
+      booktitle={Findings of the Association for Computational Linguistics: EMNLP 2024},
+      pages={15664--15680},
+      year={2024}
+    }
